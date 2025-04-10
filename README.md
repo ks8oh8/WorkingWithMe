@@ -29,8 +29,8 @@
 def hello_world():
     print("Hello, World!")
 
-*/
+```
 
 ## Intro
 
-Hello, I'm Keiran Haggerty, a Portland Native living in the greater Portland area 
+Hello, I'm Keiran Haggerty! I am a Portland Native living in the Portland Metro area with my partner, our medium sized human, our 11month old 105lb Bernese mountain dog, and our two cats one of whom is very much a cat, and the other who is enjoyable and sweet. 
