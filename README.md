@@ -25,7 +25,7 @@ I've worn many hats from manual testing to developing applications. From working
 
 I've been fortunate enough to work at companies like SUSE Linux, Puppet, and CircleCI where I've honed my love of community, open-source software, and designing and building products, tools, and infrastructure that solve problems not just for our customers, but for engineers as well with a focus on repeatability, efficiency, and delivering an amazing user experience.
 
-Finally, I am passionate about helping others. My partner and I owned a Business (Doggy Daycare) together for 10 years here in Portland. During our time there we hired almost exclusively from marginalized communities, working with folks to help build work experience and long-term skills that would enable them to grow as leaders and empower them to seek their own successes. 
+Finally, I am passionate about helping others. My partner and I owned a Business (Doggy Daycare) together for 10 years here in Portland. During our time there we hired almost exclusively from marginalized communities, established profit sharing with our employees, and worked with folks to help build work experience, provide coaching and mentoring, and build long-term skills that would enable them to grow as leaders and empower them to seek their own successes. 
 
 ## Leadership 
 
