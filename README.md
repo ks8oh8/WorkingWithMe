@@ -92,7 +92,7 @@ I strongly believe in empowering my teams to succeed. This means ensuring that w
 * Think "Because that's the way we've always done it!" is a good reason to do it!
 * Start with "That's not my job!". 
 * Surprise me if avoidable, and I won't surprise you! (see above!)
-* Gold plate, unless we've identified it as necessary. 
+* Over polish, or perfect your work, unless we've identified it as necessary. 
 * Log off for the night with any stress or anxiety that I can help resolve for you on a call. I am **always** happy to take a call and help provide calm and stability where I am able to. 
 
 ## Finally
