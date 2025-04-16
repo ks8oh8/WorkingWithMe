@@ -66,7 +66,9 @@ I strongly believe in empowering my teams to succeed. This means ensuring that w
 
 * I generally believe that everyone is trying to do the best job they can given the information that they have, their ability to action it, and the system that supports them. 
 
-* I want to have a relationship with folks around me wherein we can trust each other to be open, honest, and share the good with the bad. I understand that I have to earn that trust, but ask that we start with a "same team" philosophy! 
+* I want to have a relationship with folks around me wherein we can trust each other to be open, honest, and share the good with the bad. I understand that I have to earn that trust, but ask that we start with a "same team" philosophy!
+
+* Say what you'll do, do what you say. Be accountable if things don't work, it's a learning experience and understanding what happened and why is critical for growth. 
 
 ### Respect
 * We should be direct and clear about what is happening, and what we need - while being kind and fostering recovery. We are here because we are smart, we are talented, so ask questions, tell me how I can help you, and seek to learn from each other where we can!
