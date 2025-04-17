@@ -47,7 +47,9 @@ I strongly believe in empowering my teams to succeed. This means ensuring that w
 
 * I am committed to helping folks grow and reach their goals, and I will provide meaningful feedback where I see something notable, right, wrong, or indifferent.
 
-* I love feedback, and I welcome it at *almost* any time. 
+* I love feedback, and I welcome it at *almost* any time.
+
+* I don't mind if we make mistakes. I do mind if we make the same mistake twice. We should always be looking for the lessons when things go wrong, and ensuring that we take that opportunity to learn in hopes of avoiding similar issues down the line. 
 
 ### Transparency
 
@@ -68,10 +70,10 @@ I strongly believe in empowering my teams to succeed. This means ensuring that w
 
 * I want to have a relationship with folks around me wherein we can trust each other to be open, honest, and share the good with the bad. I understand that I have to earn that trust, but ask that we start with a "same team" philosophy!
 
-* Say what you'll do, do what you say. Be accountable if things don't work, it's a learning experience and understanding what happened and why is critical for growth. 
+* Say what you'll do, do what you say. Be accountable. 
 
 ### Respect
-* We should be direct and clear about what is happening, and what we need - while being kind and fostering recovery. We are here because we are smart, we are talented, so ask questions, tell me how I can help you, and seek to learn from each other where we can!
+* We should be direct and clear about what is happening, and what we need - while being kind and fostering recovery in challenging moments. We are here because we are smart, we are talented, so ask questions, tell me how I can help you, and seek to learn from each other where we can!
 
 ### Communication
 * Start with too much, I'll let you know when to dial it back! 
