@@ -59,9 +59,9 @@ I strongly believe in empowering my teams to succeed. This means ensuring that w
 
 ### Solutions oriented
 
-* It is my goal to bring solutions and mitigation strategies when I bring a problem to the table. Granted, this isn't always possible—sometimes information must flow regardless of how prepared we are.
+* It is my goal to bring solutions and mitigation strategies when I bring a problem to the table. Granted, this isn't always possible—sometimes information must flow regardless of how prepared we are. But when and where possible I wouold deeply appreciate it if you would do the same. 
 
-* I am always down to partner with anyone on a solution, but I deeply appreciate when people show up with ideas or strategies of their own!
+* I am always down to partner with anyone on a solution, no matter how raw the issue.
 
 ### Trust
 * But verify. I don't want to micromanage. As such, I will always be clear about what I need, the guardrails, and the desired outcome(s) as well as what information I need to understand that things are on track and healthy.
