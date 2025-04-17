@@ -88,9 +88,12 @@ I strongly believe in empowering my teams to succeed. This means ensuring that w
 * We should assume that folks are trying to do the best job they can or know how to, and work to understand their challenges with an eye towards supporting future success! 
 
 ## Please do
-* Be proactive, take initiative, ask for forgiveness.
+* Be proactive.
+* Take initiative.
+* Ask for forgiveness when permission is a blocker.
 * Loop me in as soon as you've run into a roadblock/issue/etc - not necessarily so I can solve it, but instead so I am aware.
 * Involve me! You have a cool idea? Want to show off something you're working on? Need some help or a rubber duck to chat at? I'm down.
+* Come say hi - I am 100% open door and always happy to connect with folks.
 
 ## Please don't
 * Think "Because that's the way we've always done it!" is a good reason to do it!
