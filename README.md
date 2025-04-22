@@ -103,7 +103,7 @@ I strongly believe in empowering my teams to succeed. This means ensuring that w
 * Log off for the night with any stress or anxiety that I can help resolve for you on a call. I am **always** happy to take a call and help provide calm and stability where I am able to. My cell # is 503-427-8559 and my whatsapp is the same. 
 
 ## Finally
-The Oxford comma rules and a '-' is a valid and helpful literary device. Don't @ me.
+The Oxford comma rules and a '-' is a valid and helpful literary device - don't @ me!
 
 ## P.S.
 Did you read this? What feedback do you have for me? Let's chat!
