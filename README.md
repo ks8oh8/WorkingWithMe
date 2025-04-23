@@ -1,4 +1,4 @@
-# Working With Me
+# Working With Me, an introduction!
 
 ## Intro
 
